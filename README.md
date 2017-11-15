@@ -1,2 +1,2 @@
 # tea_randomizer
-Qt + android project which helps to choose what kind of te to drink
+Qt + android project which helps to choose a tea
